@@ -1,0 +1,19 @@
+#container{
+    text-align: center;
+}
+#guess{
+    border-radius: 20px;
+    text-align: center;
+}
+#mybtn{
+    border-radius: 40px;
+    border-width: 5px;
+    background-color: black;
+    color: aliceblue;
+    cursor: pointer;
+    transition: background-color 2s;
+}
+.buttons:hover{
+    background-color:aqua;
+
+}
