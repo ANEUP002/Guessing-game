@@ -1,2 +1,2 @@
 # Guessing game
- Cresting a simple guessing game using HTML and JavaScript
+ Creating a simple guessing game using HTML and JavaScript
